@@ -1,0 +1,10 @@
+:root{
+	--primary:#000000;
+	--dark:#E0FFFF;
+	--pure:#FFFFFF;
+	--ternary:#696969;
+	--light:#FFF8DC;
+}
+header{
+	background:#E0FFFF ;
+}
